@@ -23,3 +23,10 @@ As cost of inpatient care & readmission rates are higher in patients with diabet
 -	Our model is not capable of accounting the factors such as socio-economic characteristics of patient, 
 - With most efforts focused on reducing readmissions, there is a potential to overlook the stress and vulnerability of patients.
 
+## Color Reference
+
+| Attribute         |    type       |                       Information                                 |
+| ----------------- | ------------- |------------------------------------------------------------------ |
+| Encounter ID      |   Numeric     |   Unique identifier of an encounter                            |
+
+
