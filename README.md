@@ -12,7 +12,7 @@ A subset of 3,375 SMS randomly chosen ham messages of the NUS SMS Corpus (NSC), 
 A list of 450 SMS ham messages collected from Caroline Tag's PhD Thesis
 Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and 322 spam messages and it is public available at. This corpus has been used in the academic researches:
 
-| Class        |    count      |     
-| ----------------- | ------------- |
-| Spam | 747 |
-| Ham | 4825 |
+| Class        |    count      | percentage |    
+| ----------------- | ------------- | ---------- |
+| Spam | 747 | 13.41 |  
+| Ham | 4825 | 86.59 |
