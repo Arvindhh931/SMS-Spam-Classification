@@ -20,11 +20,21 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 | Ham | 4825 | 86.59 % |
 
 ## Objective:
-Prediction of a SMS into SPAM or NOT A SPAM so that developers come up with the application that can filter messages them based on the prediction
+1) Prediction of a SMS into SPAM or NOT A SPAM so that developers come up with the application that can filter messages them based on the prediction
 
-## Limitations:
+## Hurdles - 
+1) Looking for external spam_words, to get the spam-word-count to avoid Out of the vocabulary words and biasing towards category 'SPAM'
+2) Reducing the False positive at the minimum cost of False negative (Better Tradeoff between Precision & Recall)
+3) Imbalanced Dataset
+
+## Skills Aquired-
+- Text processing / cleaning
+- Vectorization (Bag of words/TFIDF)
+- Classification (Logistic regression)
+- Synthetic minority oversampling technique (SMOTE)
+
 1) The semantics(exact meanings/context) of words are not taken into account
 2) Sometimes/Rarely Model may end up predicting an important message as spam (False positives) 
      when out of the vocabulary word will be encountered.
-3) Model needs to be continuously updated to escape out of the bag words, 
+3) Model needs to be continuously updated to escape out of the vocabulary words, 
 4) Model should incorporate the new slangs, spamwords in the emerging social media. 
