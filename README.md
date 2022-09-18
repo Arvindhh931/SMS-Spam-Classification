@@ -4,7 +4,7 @@ This dataset was taken from the StatLib library which is maintained at Carnegie 
 
 link - [SPAM data (UCI machine learning repository)](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
-![Alt Text](https://media4.giphy.com/media/xUOwGhauv1d6nceRbi/giphy.gif?cid=ecf05e477s3nchucl2u82zwuw280n7sx15ebtalp33fase01&rid=giphy.gif&ct=g)
+![Alt Text](<iframe src="https://giphy.com/embed/xUOwGhauv1d6nceRbi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iphone-mail-youve-got-xUOwGhauv1d6nceRbi">via GIPHY</a></p>)
 
 ## Data Set Information:
 This corpus has been collected from free or free for research sources at the Internet:
