@@ -14,5 +14,5 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 
 | Class        |    count      | percentage |    
 | ----------------- | ------------- | ---------- |
-| Spam | 747 | 13.41 |  
-| Ham | 4825 | 86.59 |
+| Spam | 747 | 13.41 % |  
+| Ham | 4825 | 86.59 % |
