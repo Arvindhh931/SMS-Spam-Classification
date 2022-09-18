@@ -34,7 +34,7 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 - Vectorization (Bag of words/TFIDF)
 - Classification (Logistic regression)
 - Synthetic minority oversampling technique (SMOTE)
-
+## Limitations of project
 1) The semantics(exact meanings/context) of words are not taken into account
 2) Sometimes/Rarely Model may end up predicting an important message as spam (False positives) 
      when out of the vocabulary word will be encountered.
