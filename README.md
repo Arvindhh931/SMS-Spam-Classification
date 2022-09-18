@@ -1,4 +1,4 @@
-# SMS-Spam-Classification
+# SMS-Spam-Classification using Logistic Regression
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
