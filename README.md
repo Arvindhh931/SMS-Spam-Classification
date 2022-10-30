@@ -1,5 +1,7 @@
 # SMS-Spam-Classification using Logistic Regression
 
+## predicted the spams with close to 98 % precision
+
 ## Deployment - Currently under progress............
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
