@@ -43,6 +43,11 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 :-------------------------:|
 ![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/3.png)
 
+| *Spam word count*           | 
+:-------------------------:|
+![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/4.png)
+
+
 | *Word cloud*           | 
 :-------------------------:|
 ![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/1.png)
