@@ -24,6 +24,12 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 ## Objective:
 1) Prediction of a SMS into SPAM or NOT A SPAM so that developers come up with the application that can filter messages them based on the prediction
 
+## Exploratory Data Analysis
+
+| *Readmission status*           |
+:-------------------------:|
+![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/8.png)
+
 ## Hurdles - 
 1) Looking for external spam_words, to get the spam-word-count to avoid Out of the vocabulary words and biasing towards category 'SPAM'
 2) Reducing the False positive at the minimum cost of False negative (Better Tradeoff between Precision & Recall)
