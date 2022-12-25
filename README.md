@@ -24,36 +24,6 @@ Finally, incorporation of the SMS Spam Corpus. It has 1,002 SMS ham messages and
 ## Objective:
 1) Prediction of a SMS into SPAM or NOT A SPAM so that developers come up with the application that can filter messages them based on the prediction
 
-## Exploratory Data Analysis
-
-| *Target*   |
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/7.png)
-
-
-| *Length of charecters*   |
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/6.png)
-
-| *Unique token count*           | 
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/2.png)
-
-| *Token count*           | 
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/3.png)
-
-| *Spam word count*           | 
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/4.png)
-
-
-| *Word cloud*           | 
-:-------------------------:|
-![](https://github.com/Arvindhh931/SMS-Spam-Classification/blob/main/Visualizations/1.png)
-
-
-
 ## Hurdles - 
 1) Looking for external spam_words, to get the spam-word-count to avoid Out of the vocabulary words and biasing towards category 'SPAM'
 2) Reducing the False positive at the minimum cost of False negative (Better Tradeoff between Precision & Recall)
